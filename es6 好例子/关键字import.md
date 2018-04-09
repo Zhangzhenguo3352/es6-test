@@ -1,4 +1,4 @@
-`
+```js
 // es5
 
 var MyComponent = require('./MyComponent.js');
@@ -6,4 +6,4 @@ var MyComponent = require('./MyComponent.js');
 
 import MyComponent from './MyComponent';
 
-`
+```

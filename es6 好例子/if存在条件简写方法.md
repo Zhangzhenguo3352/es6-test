@@ -1,3 +1,4 @@
+```js
 //  if存在条件简写方法
   if (likeJavaScript === true) {}
   //简写：
@@ -12,3 +13,4 @@
   if (!a) {
     // do something...
   }
+```

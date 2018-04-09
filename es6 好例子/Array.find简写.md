@@ -1,3 +1,4 @@
+```js
 //  查出这个条件的 对象
 
 const pets = [
@@ -22,3 +23,4 @@ function findDog(name) {
 console.log( findDog( 'Max' ) ) // {type: "Dog", name: "Max"}
 console.log( findDog( 'Karl' ) ) // undefined
 console.log( findDog( 'Tommy' ) ) // {type: "Dog", name: "Tommy"}
+```

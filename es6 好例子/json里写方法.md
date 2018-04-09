@@ -1,3 +1,4 @@
+```js
 // es5
 var Phono = {
   name,
@@ -11,3 +12,4 @@ class Photo {
   getAge() { return this.age },
   getName() { return this.name; }
 }
+```

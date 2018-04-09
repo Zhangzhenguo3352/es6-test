@@ -1,3 +1,4 @@
+```js
 //es5
 class Animal {
   constructor() {
@@ -51,3 +52,4 @@ class SomeClass {
     // 私有方法
   }
 }
+```

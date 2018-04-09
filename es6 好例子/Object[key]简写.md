@@ -1,3 +1,4 @@
+```js
 //考虑一个验证函数
 function validate(values) {
   if (!values.first) return false;
@@ -17,10 +18,11 @@ const validate = (schema, values) => {
     if (schema[field].required) {
       if (!values[field]) {
         return false;
-      } 
+      }
     }
   }
   return true;
 }
 console.log(validate(schema, { first: 'Bruce' })); // false
 console.log(validate(schema, { first: 'Bruce', last: 'Wayne' })); // true
+```

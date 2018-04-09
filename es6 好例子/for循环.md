@@ -1,3 +1,4 @@
+```js
 // es5
 var arr = ['val1', 'val2', 'val3'];
 for (var i = 0; i < arr.length; i++) {
@@ -19,3 +20,4 @@ arr.forEach((val, index, array) => {
 })
 
 for (let i = 0; i < allImgs.length; i++)
+```
